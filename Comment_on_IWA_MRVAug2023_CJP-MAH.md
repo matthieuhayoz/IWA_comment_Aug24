@@ -124,7 +124,7 @@ For example, an EP may want to create claims for carbon removal and water, thus 
 Proposed:
 **Activity Impact Module (AIM)** 
 
->  An ecological Project Activity (PA) be associated with multiple impacts. Each quantifiable impact is represented by an AIM, which is a claim about the impact of the PA on the state of particular environment made according to particular quantification method.  
+>  An ecological Project Activity (PA) be associated with multiple impacts. Each quantifiable impact is represented by an AIM, which is a claim about the impact of the PA on the state of particular environment made according to a particular quantification method.  
 For example, an project operator may want to create claims for carbon removal and water benefits related to a particular project activity, and will thus have an AIM for each. An AIM must be validated before the project operator can begin submitting claims for verification.
 
 

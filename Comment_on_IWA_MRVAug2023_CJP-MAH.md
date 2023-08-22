@@ -127,6 +127,13 @@ Proposed:
 >  An ecological Project Activity (PA) be associated with multiple impacts. Each quantifiable impact is represented by an AIM, which is a claim about the impact of the PA on the state of particular environment made according to a particular quantification method.  
 For example, an project operator may want to create claims for carbon removal and water benefits related to a particular project activity, and will thus have an AIM for each. An AIM must be validated before the project operator can begin submitting claims for verification.
 
+|IWA dMRV, current|IWA dMRV, proposed|
+|-------------------|--------------------|
+|Ecological Project or Program|?|
+||PA (Project Activity)|
+|MBP (Modular Benefit Project)|AIM (Activity Impact Module)|
+|Ecological claim linked to the MBP (only one Ecological claim is possible for each MBP)|Impact claim linked to the AIM(multiple AIMs/Impact claims are possible for each PA)|
+|Co-Benefit|Dissolve co-benefits concepts and claim all benefits through AIMs |
 
 <!-- 
 Replace 
@@ -166,7 +173,7 @@ Validation & Verification Body (VVB) can be described in such as way as to make 
 ### Proposal 
 
 
-**Change terminology of VVB to VVE**
+**Change terminology of VVB to VVE** => What does VVE stand for?
 
 **Change "organization" to "person or organization" or "natural or legal person"**
 
@@ -189,4 +196,5 @@ Validation and Verification is, in our opinion, one of the least efficient compo
 -->
 
 ## Dissolve the concept of co-benefits
-
+I agree with the idea, maybe explain why and how we want to dissolve the concept of co-beneifts with something like:
+"Each benefit claimed (even "co-benefits") must be treated throuhg an AIM. This will remove the risk of greenwashing present with co-benefits that don't require any reporting."
